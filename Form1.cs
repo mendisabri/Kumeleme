@@ -16,5 +16,10 @@ namespace Kumeleme
         {
             InitializeComponent();
         }
+
+        private void rastgele_nokta_ekle_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
