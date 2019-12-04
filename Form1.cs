@@ -19,7 +19,7 @@ namespace Kumeleme
 
         private void rastgele_nokta_ekle_Click(object sender, EventArgs e)
         {
-
+            adet.Text = "adet";
         }
     }
 }
